@@ -14,11 +14,11 @@ date: 2016-10-15
 
 <p>I trained a feedforward neural network with two hidden layers to perform the xor operation. I used the same initialization to train both using the direct feedback alignment algorithm as well as backprop. Results from a single training examples are presented below</p>
 
-<img src="/figures/DirectFeedbackAlignement_xor.png" alt="samples" style="width: 1000px;"/>
+<img src="/figures/DirectFeedbackAlignement_xor.png" alt="samples" style="width: 800px;"/>
 
 <p>Interestingly the convergence pattern demonstrated above was not idiosyncratic to that initialization. Over the average of 1000 trainings it is clear the while backpropagation begins to converge faster, direct feedback alignment quickly catches up and actually finds a superior solution.</p>
 
-<img src="/figures/DirectFeedbackAlignement_xor_1000.png" alt="samples" style="width: 1000px;"/>
+<img src="/figures/DirectFeedbackAlignement_xor_1000.png" alt="samples" style="width: 800px;"/>
 
 </div>
 
