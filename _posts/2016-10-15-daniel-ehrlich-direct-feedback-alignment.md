@@ -12,11 +12,13 @@ date: 2016-10-15
 
 <h2>Results</h2>
 
+</div>
+
 ![Fig 1](https://github.com/dbehrlich/dbehrlich.github.io/tree/master/figures/DirectFeedbackAlignement_xor.png)
 
 ![Fig 2](https://github.com/dbehrlich/dbehrlich.github.io/tree/master/figures/DirectFeedbackAlignement_xor_1000.png)
 
 
-</div>
+
 
 
