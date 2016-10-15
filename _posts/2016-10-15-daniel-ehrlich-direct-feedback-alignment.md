@@ -13,11 +13,11 @@ date: 2016-10-15
 <h2>Results</h2>
 
 <figure>
-    <img src="https://github.com/dbehrlich/dbehrlich.github.io/figures/DirectFeedbackAlignement_xor.png" alt="sample training">
+    <img src="/figures/DirectFeedbackAlignement_xor.png" alt="sample training">
 </figure>
 
 <figure>
- <img src="https://github.com/dbehrlich/dbehrlich.github.io/figures/DirectFeedbackAlignement_xor_1000.png" alt="average error">
+ <img src="/figures/DirectFeedbackAlignement_xor_1000.png" alt="average error">
 </figure>
 
 </div>
