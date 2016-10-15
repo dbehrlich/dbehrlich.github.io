@@ -14,7 +14,7 @@ date: 2016-10-15
 
 </div>
 
-![Fig 1](/figures/DirectFeedbackAlignement_xor.png)
+![Fig 1](/figures/DirectFeedbackAlignement_xor.png = 100x)
 
 ![Fig 2](/figures/DirectFeedbackAlignement_xor_1000.png?raw=true)
 
