@@ -12,13 +12,12 @@ date: 2016-10-15
 
 <h2>Results</h2>
 
-<img src="/figures/DirectFeedbackAlignement_xor.png" alt="samples" style="width: 200px;"/>
+<img src="/figures/DirectFeedbackAlignement_xor.png" alt="samples" style="width: 1000px;"/>
+
+<img src="/figures/DirectFeedbackAlignement_xor_1000.png" alt="samples" style="width: 1000px;"/>
 
 </div>
 
-![Fig 1](/figures/DirectFeedbackAlignement_xor.png )
-
-![Fig 2](/figures/DirectFeedbackAlignement_xor_1000.png?raw=true)
 
 
 
