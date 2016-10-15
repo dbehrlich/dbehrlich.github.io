@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello World"
-date: 2016-10-14
+title: "Direct Feedback Alignment vs Backprop"
+date: 2016-10-15
 ---
 
 #Direct Feedback Alignment
