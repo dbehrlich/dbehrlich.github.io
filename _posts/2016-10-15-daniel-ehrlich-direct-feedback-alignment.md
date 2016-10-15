@@ -21,6 +21,11 @@ date: 2016-10-15
 <img src="/figures/DirectFeedbackAlignement_xor_1000.png" alt="samples" style="width: 800px;"/>
 
 
+<h3>Code</h3>
+
+<p>Code used to generate this post available at my github account: <a href="https://github.com/dbehrlich/directFeedbackAlignment">github.com/dbehrlich</a></p>
+
+
 <h3>References</h3>
 
 <p>Nøkland, Arild. "Direct Feedback Alignment Provides Learning in Deep Neural Networks." arXiv preprint arXiv:1609.01596 (2016).</p>
