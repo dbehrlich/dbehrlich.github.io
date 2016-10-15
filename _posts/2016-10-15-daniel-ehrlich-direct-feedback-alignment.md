@@ -16,7 +16,7 @@ date: 2016-10-15
 
 <img src="/figures/DirectFeedbackAlignement_xor.png" alt="samples" style="width: 800px;"/>
 
-<p>Interestingly the convergence pattern demonstrated above was not idiosyncratic to that initialization. Over the average of 1000 trainings it is clear that while backpropagation begins to learn faster, direct feedback alignment quickly catches up and converges more quickly to a lower error solution.</p>
+<p>Interestingly, the convergence pattern demonstrated above was not idiosyncratic to that initialization. Over the average of 1000 trainings it is clear that while backpropagation begins to learn faster, direct feedback alignment quickly catches up and converges more quickly to a lower error solution.</p>
 
 <img src="/figures/DirectFeedbackAlignement_xor_1000.png" alt="samples" style="width: 800px;"/>
 
