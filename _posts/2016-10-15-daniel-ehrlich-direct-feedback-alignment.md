@@ -14,9 +14,9 @@ date: 2016-10-15
 
 </div>
 
-![Fig 1](https://github.com/dbehrlich/dbehrlich.github.io/blob/master/figures/DirectFeedbackAlignement_xor.png?raw=true)
+![Fig 1](/figures/DirectFeedbackAlignement_xor.png)
 
-![Fig 2](https://github.com/dbehrlich/dbehrlich.github.io/blob/master/figures/DirectFeedbackAlignement_xor_1000.png?raw=true)
+![Fig 2](/figures/DirectFeedbackAlignement_xor_1000.png?raw=true)
 
 
 
