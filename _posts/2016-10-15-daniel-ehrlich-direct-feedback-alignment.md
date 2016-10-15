@@ -12,7 +12,7 @@ date: 2016-10-15
 
 <h3>Results</h3>
 
-<p>I trained two feedforward neural networks with the same intialization to perform the xor operation. The first was trained using the direct feedback alignment algorithm, and the second was trained using backprop. Results from a single training example is presented below</p>
+<p>I trained two feedforward neural networks with the same intialization to perform the xor operation. The first was trained using the direct feedback alignment algorithm, and the second was trained using backprop. Results from a single training example are presented below.</p>
 
 <img src="/figures/DirectFeedbackAlignement_xor.png" alt="samples" style="width: 800px;"/>
 
