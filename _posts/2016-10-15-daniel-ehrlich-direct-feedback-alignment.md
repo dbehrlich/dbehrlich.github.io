@@ -8,7 +8,7 @@ date: 2016-10-15
 
 <h3>Feedback Alignment Methods</h3>
 
-<p>Feedback Alignment proposes the use of random fixed weight matrices to propogate error through a neural network for the purpose of weight updates. Direct feedback alignment (DFA) takes this concept further, and instead propogates the error directly through a single random weight matrix to its respective layer. As such it consitutes a nearly local update rule. The purpose of this post is to explain the DFA update rule as well as compare its performance against traditional backprop. </p>
+<p>Feedback Alignment proposes the use of random fixed weight matrices to propagate error back through a neural network during training. Direct feedback alignment (DFA) takes this concept further, and instead transfers the error directly through a single random weight matrix to its respective layer. As such it consitutes a nearly local update rule. The purpose of this post is to explain the DFA update rule(coming soon) as well as compare its performance against traditional backprop. </p>
 
 <h3>Results</h3>
 
