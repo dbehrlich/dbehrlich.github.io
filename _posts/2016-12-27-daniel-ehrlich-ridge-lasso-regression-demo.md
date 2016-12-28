@@ -5,7 +5,7 @@ date: 2016-12-27
 ---
 
 
-<!DOCTYPE html>
+
 <html>
 <head><meta charset="utf-8" />
 <title>ridge_lasso_demo</title>
